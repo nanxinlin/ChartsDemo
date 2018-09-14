@@ -11,6 +11,7 @@
 		0A5815A378FC23691BC8A705 /* Pods_ChartsDemo2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2246EB249D6EB464CFDF838 /* Pods_ChartsDemo2.framework */; };
 		1519A1FDA9989DB59DBA7C00 /* Pods_ChartsDemo12.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A8EDC233FD343E50BDE31B8A /* Pods_ChartsDemo12.framework */; };
 		1EF62F387FCD9C4489316787 /* Pods_ChartsDemo3.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDCA5B2ED3DC7B1FF693DC1D /* Pods_ChartsDemo3.framework */; };
+		4E547A43AC5CFB67FAAD3F4A /* Pods_ChartsDemo19.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 64927CE0E1E1DFABAEA93F39 /* Pods_ChartsDemo19.framework */; };
 		55C706A85726FCEB928BF3E1 /* Pods_ChartsDemo15.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C14AB671EA166A444FC473FA /* Pods_ChartsDemo15.framework */; };
 		66A5E55CCA2BBD664FACD961 /* Pods_ChartsDemo17.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3948216C98FF87E8CBBF346E /* Pods_ChartsDemo17.framework */; };
 		776269174B032106CAE0C660 /* Pods_ChartsDemo13.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6188470E3354A961BB59186C /* Pods_ChartsDemo13.framework */; };
@@ -108,6 +109,12 @@
 		A7C02A6C2142001F006EF3FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7C02A6A2142001F006EF3FC /* Main.storyboard */; };
 		A7C02A6E2142001F006EF3FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7C02A6D2142001F006EF3FC /* Assets.xcassets */; };
 		A7C02A712142001F006EF3FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7C02A6F2142001F006EF3FC /* LaunchScreen.storyboard */; };
+		A7D54757214B392700ED9272 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7D54756214B392700ED9272 /* AppDelegate.swift */; };
+		A7D54759214B392700ED9272 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7D54758214B392700ED9272 /* ViewController.swift */; };
+		A7D5475C214B392700ED9272 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7D5475A214B392700ED9272 /* Main.storyboard */; };
+		A7D5475E214B392800ED9272 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7D5475D214B392800ED9272 /* Assets.xcassets */; };
+		A7D54761214B392800ED9272 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7D5475F214B392800ED9272 /* LaunchScreen.storyboard */; };
+		A7D54767214B413600ED9272 /* OneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7D54766214B413600ED9272 /* OneViewController.swift */; };
 		A7ECA7152147D145009650D4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7ECA7142147D145009650D4 /* AppDelegate.swift */; };
 		A7ECA7172147D145009650D4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7ECA7162147D145009650D4 /* ViewController.swift */; };
 		A7ECA71A2147D145009650D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7ECA7182147D145009650D4 /* Main.storyboard */; };
@@ -149,6 +156,7 @@
 		2B413C0AF915496F489D6F23 /* Pods-ChartsDemo9.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChartsDemo9.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ChartsDemo9/Pods-ChartsDemo9.debug.xcconfig"; sourceTree = "<group>"; };
 		2EF69992566F9EB4BEE4F7C3 /* Pods-ChartsDemo8.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChartsDemo8.release.xcconfig"; path = "Pods/Target Support Files/Pods-ChartsDemo8/Pods-ChartsDemo8.release.xcconfig"; sourceTree = "<group>"; };
 		31895FE5BD8C7008BAE58808 /* Pods-ChartsDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChartsDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-ChartsDemo/Pods-ChartsDemo.release.xcconfig"; sourceTree = "<group>"; };
+		34B1F028B3C548DEB74CB317 /* Pods-ChartsDemo19.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChartsDemo19.release.xcconfig"; path = "Pods/Target Support Files/Pods-ChartsDemo19/Pods-ChartsDemo19.release.xcconfig"; sourceTree = "<group>"; };
 		3948216C98FF87E8CBBF346E /* Pods_ChartsDemo17.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ChartsDemo17.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EEC4DA8030C7DC64EECC2BF /* Pods-ChartsDemo1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChartsDemo1.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ChartsDemo1/Pods-ChartsDemo1.debug.xcconfig"; sourceTree = "<group>"; };
 		4173425DF52C7A4B90BC4442 /* Pods_ChartsDemo11.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ChartsDemo11.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -159,10 +167,12 @@
 		49A103EB6E3BCB808150F473 /* Pods-ChartsDemo10.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChartsDemo10.release.xcconfig"; path = "Pods/Target Support Files/Pods-ChartsDemo10/Pods-ChartsDemo10.release.xcconfig"; sourceTree = "<group>"; };
 		49ECB2F8BFA2FB22F5409810 /* Pods_ChartsDemo4.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ChartsDemo4.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C1E1325CD3DC50BC31E99D4 /* Pods_ChartsDemo1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ChartsDemo1.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		55EDF5247AF3D2987FFC85E2 /* Pods-ChartsDemo19.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChartsDemo19.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ChartsDemo19/Pods-ChartsDemo19.debug.xcconfig"; sourceTree = "<group>"; };
 		5931FED8C4EAF41DE8974955 /* Pods-ChartsDemo2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChartsDemo2.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ChartsDemo2/Pods-ChartsDemo2.debug.xcconfig"; sourceTree = "<group>"; };
 		5A5ABBC4160DA571B1023823 /* Pods-ChartsDemo9.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChartsDemo9.release.xcconfig"; path = "Pods/Target Support Files/Pods-ChartsDemo9/Pods-ChartsDemo9.release.xcconfig"; sourceTree = "<group>"; };
 		5EB7BE745265D75F9DF0110E /* Pods-ChartsDemo16.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChartsDemo16.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ChartsDemo16/Pods-ChartsDemo16.debug.xcconfig"; sourceTree = "<group>"; };
 		6188470E3354A961BB59186C /* Pods_ChartsDemo13.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ChartsDemo13.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		64927CE0E1E1DFABAEA93F39 /* Pods_ChartsDemo19.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ChartsDemo19.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		66C7DB0BC116891830F4E98B /* Pods-ChartsDemo11.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChartsDemo11.release.xcconfig"; path = "Pods/Target Support Files/Pods-ChartsDemo11/Pods-ChartsDemo11.release.xcconfig"; sourceTree = "<group>"; };
 		70BEB9A29CB5FD30E040EEE5 /* Pods-ChartsDemo1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChartsDemo1.release.xcconfig"; path = "Pods/Target Support Files/Pods-ChartsDemo1/Pods-ChartsDemo1.release.xcconfig"; sourceTree = "<group>"; };
 		72E7812F7021D0552F0D4424 /* Pods-ChartsDemo7.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChartsDemo7.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ChartsDemo7/Pods-ChartsDemo7.debug.xcconfig"; sourceTree = "<group>"; };
@@ -298,6 +308,14 @@
 		A7C02A6D2142001F006EF3FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A7C02A702142001F006EF3FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A7C02A722142001F006EF3FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7D54754214B392700ED9272 /* ChartsDemo19.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChartsDemo19.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A7D54756214B392700ED9272 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A7D54758214B392700ED9272 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A7D5475B214B392700ED9272 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A7D5475D214B392800ED9272 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A7D54760214B392800ED9272 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A7D54762214B392800ED9272 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7D54766214B413600ED9272 /* OneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OneViewController.swift; sourceTree = "<group>"; };
 		A7ECA7122147D145009650D4 /* ChartsDemo16.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChartsDemo16.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7ECA7142147D145009650D4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A7ECA7162147D145009650D4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -471,6 +489,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		A7D54751214B392700ED9272 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4E547A43AC5CFB67FAAD3F4A /* Pods_ChartsDemo19.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		A7ECA70F2147D145009650D4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -539,6 +565,8 @@
 				E2E4032CD77448288FD0C359 /* Pods-ChartsDemo17.release.xcconfig */,
 				E7F1B3F9841C348868EE4A09 /* Pods-ChartsDemo18.debug.xcconfig */,
 				8A322EFEF8452E97A97F5987 /* Pods-ChartsDemo18.release.xcconfig */,
+				55EDF5247AF3D2987FFC85E2 /* Pods-ChartsDemo19.debug.xcconfig */,
+				34B1F028B3C548DEB74CB317 /* Pods-ChartsDemo19.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -565,6 +593,7 @@
 				F859480992A39555B772F0BC /* Pods_ChartsDemo16.framework */,
 				3948216C98FF87E8CBBF346E /* Pods_ChartsDemo17.framework */,
 				F8211EB01C2DA90F9CB7F9AD /* Pods_ChartsDemo18.framework */,
+				64927CE0E1E1DFABAEA93F39 /* Pods_ChartsDemo19.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -648,6 +677,7 @@
 				A7ECA7132147D145009650D4 /* ChartsDemo16 */,
 				A7979EB221489968007DFF26 /* ChartsDemo17 */,
 				A77753772149EEC400747202 /* ChartsDemo18 */,
+				A7D54755214B392700ED9272 /* ChartsDemo19 */,
 				A75B2831212D46DE0034C996 /* Products */,
 				4AE9F206EA21CA5A9C1A1288 /* Pods */,
 				6B5D98E884B13A19EF5C55CC /* Frameworks */,
@@ -676,6 +706,7 @@
 				A7ECA7122147D145009650D4 /* ChartsDemo16.app */,
 				A7979EB121489968007DFF26 /* ChartsDemo17.app */,
 				A77753762149EEC400747202 /* ChartsDemo18.app */,
+				A7D54754214B392700ED9272 /* ChartsDemo19.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -841,6 +872,20 @@
 				A7C02A722142001F006EF3FC /* Info.plist */,
 			);
 			path = ChartsDemo13;
+			sourceTree = "<group>";
+		};
+		A7D54755214B392700ED9272 /* ChartsDemo19 */ = {
+			isa = PBXGroup;
+			children = (
+				A7D54756214B392700ED9272 /* AppDelegate.swift */,
+				A7D54758214B392700ED9272 /* ViewController.swift */,
+				A7D54766214B413600ED9272 /* OneViewController.swift */,
+				A7D5475A214B392700ED9272 /* Main.storyboard */,
+				A7D5475D214B392800ED9272 /* Assets.xcassets */,
+				A7D5475F214B392800ED9272 /* LaunchScreen.storyboard */,
+				A7D54762214B392800ED9272 /* Info.plist */,
+			);
+			path = ChartsDemo19;
 			sourceTree = "<group>";
 		};
 		A7ECA7132147D145009650D4 /* ChartsDemo16 */ = {
@@ -1190,6 +1235,25 @@
 			productReference = A7C02A642142001E006EF3FC /* ChartsDemo13.app */;
 			productType = "com.apple.product-type.application";
 		};
+		A7D54753214B392700ED9272 /* ChartsDemo19 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A7D54765214B392800ED9272 /* Build configuration list for PBXNativeTarget "ChartsDemo19" */;
+			buildPhases = (
+				96F1E404E5F15905DA316C3E /* [CP] Check Pods Manifest.lock */,
+				A7D54750214B392700ED9272 /* Sources */,
+				A7D54751214B392700ED9272 /* Frameworks */,
+				A7D54752214B392700ED9272 /* Resources */,
+				9D4A468F5B5CD3FB491AB5B4 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ChartsDemo19;
+			productName = ChartsDemo19;
+			productReference = A7D54754214B392700ED9272 /* ChartsDemo19.app */;
+			productType = "com.apple.product-type.application";
+		};
 		A7ECA7112147D145009650D4 /* ChartsDemo16 */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = A7ECA7232147D146009650D4 /* Build configuration list for PBXNativeTarget "ChartsDemo16" */;
@@ -1305,6 +1369,9 @@
 					A7C02A632142001E006EF3FC = {
 						CreatedOnToolsVersion = 9.4.1;
 					};
+					A7D54753214B392700ED9272 = {
+						CreatedOnToolsVersion = 9.4.1;
+					};
 					A7ECA7112147D145009650D4 = {
 						CreatedOnToolsVersion = 9.4.1;
 					};
@@ -1348,6 +1415,7 @@
 				A7ECA7112147D145009650D4 /* ChartsDemo16 */,
 				A7979EB021489968007DFF26 /* ChartsDemo17 */,
 				A77753752149EEC400747202 /* ChartsDemo18 */,
+				A7D54753214B392700ED9272 /* ChartsDemo19 */,
 			);
 		};
 /* End PBXProject section */
@@ -1511,6 +1579,16 @@
 				A7C02A712142001F006EF3FC /* LaunchScreen.storyboard in Resources */,
 				A7C02A6E2142001F006EF3FC /* Assets.xcassets in Resources */,
 				A7C02A6C2142001F006EF3FC /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A7D54752214B392700ED9272 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A7D54761214B392800ED9272 /* LaunchScreen.storyboard in Resources */,
+				A7D5475E214B392800ED9272 /* Assets.xcassets in Resources */,
+				A7D5475C214B392700ED9272 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1905,6 +1983,42 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ChartsDemo12/Pods-ChartsDemo12-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		96F1E404E5F15905DA316C3E /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ChartsDemo19-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9D4A468F5B5CD3FB491AB5B4 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-ChartsDemo19/Pods-ChartsDemo19-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Charts/Charts.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Charts.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ChartsDemo19/Pods-ChartsDemo19-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		A88123E9AA6DFCFBE6367594 /* [CP] Embed Pods Frameworks */ = {
@@ -2389,6 +2503,16 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		A7D54750214B392700ED9272 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A7D54767214B413600ED9272 /* OneViewController.swift in Sources */,
+				A7D54759214B392700ED9272 /* ViewController.swift in Sources */,
+				A7D54757214B392700ED9272 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		A7ECA70E2147D145009650D4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -2672,6 +2796,22 @@
 			isa = PBXVariantGroup;
 			children = (
 				A7C02A702142001F006EF3FC /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		A7D5475A214B392700ED9272 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A7D5475B214B392700ED9272 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A7D5475F214B392800ED9272 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A7D54760214B392800ED9272 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -3435,6 +3575,42 @@
 			};
 			name = Release;
 		};
+		A7D54763214B392800ED9272 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 55EDF5247AF3D2987FFC85E2 /* Pods-ChartsDemo19.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = ChartsDemo19/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.nanxinlin.ChartsDemo19;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A7D54764214B392800ED9272 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 34B1F028B3C548DEB74CB317 /* Pods-ChartsDemo19.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = ChartsDemo19/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.nanxinlin.ChartsDemo19;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 		A7ECA7212147D146009650D4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5EB7BE745265D75F9DF0110E /* Pods-ChartsDemo16.debug.xcconfig */;
@@ -3703,6 +3879,15 @@
 			buildConfigurations = (
 				A7C02A742142001F006EF3FC /* Debug */,
 				A7C02A752142001F006EF3FC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A7D54765214B392800ED9272 /* Build configuration list for PBXNativeTarget "ChartsDemo19" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A7D54763214B392800ED9272 /* Debug */,
+				A7D54764214B392800ED9272 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
